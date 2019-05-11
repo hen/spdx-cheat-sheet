@@ -1,1 +1,1 @@
-# awesome-spdx
+# SPDX Cheat Sheet
