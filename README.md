@@ -8,6 +8,9 @@
 | [License List](https://spdx.org/licenses/) | The list of License codes |
 | [Exception List](https://spdx.org/licenses/exceptions-index.html) | The list of License Exception codes |
 
+## Source Headers
+    SPDX-License-Identifier: MIT
+
 ## Quick Notes on Expressions
 
 ### OR expressions
@@ -24,5 +27,16 @@
     AND
     OR
 
-## Source Headers
-    SPDX-License-Identifier: MIT
+
+
+## Parsers
+
+| URL      | Language |
+| ----------- | ----------- |
+| [spdx/tools-golang](https://github.com/spdx/tools-golang) | GoLang |
+| [kyoh86/go-spdx](https://github.com/kyoh86/go-spdx) | GoLang |
+| [kemitchell/spdx.js](https://github.com/kemitchell/spdx.js) | JavaScript |
+| [jslicense/spdx-expression-parse.js](https://github.com/jslicense/spdx-expression-parse.js) | JavaScript |
+| [samcv/SPDX-Parser](https://github.com/samcv/SPDX-Parser) | Perl6 |
+| [spdx/tools-python](https://github.com/spdx/tools-python) | Python |
+| [ah450/spdx-tools-python](https://github.com/ah450/spdx-tools-python) | Python |
