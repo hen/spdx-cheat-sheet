@@ -7,7 +7,7 @@
 | [License List](https://spdx.org/licenses/) | The list of License codes |
 | [Exception List](https://spdx.org/licenses/exceptions-index.html) | The list of License Exception codes |
 | [Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) | SPDX Expressions spec guidance |
-
+| [Tutorial](https://github.com/david-a-wheeler/spdx-tutorial) | Short SPDX Tutorial |
 
 ## Source Headers
     SPDX-License-Identifier: MIT
@@ -47,5 +47,7 @@
 
 | Type        | Repo        | Language |
 | ----------- | ----------- | ----------- |
-| Autocorrect | [jslicense/spdx-correct.js](https://github.com/jslicense/spdx-correct.js) | JavaScript |
+| Autocorrector | [jslicense/spdx-correct.js](https://github.com/jslicense/spdx-correct.js) | JavaScript |
+| Autocorrector | [librariesio/spdx](https://github.com/librariesio/spdx) | Ruby |
+| Validator | [rust-lang-nursery/license-exprs](https://github.com/rust-lang-nursery/license-exprs) | Rust |
 | Validator | [composer/spdx-licenses](https://github.com/composer/spdx-licenses) | PHP |
