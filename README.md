@@ -51,3 +51,4 @@
 | Autocorrector | [librariesio/spdx](https://github.com/librariesio/spdx) | Ruby |
 | Validator | [rust-lang-nursery/license-exprs](https://github.com/rust-lang-nursery/license-exprs) | Rust |
 | Validator | [composer/spdx-licenses](https://github.com/composer/spdx-licenses) | PHP |
+| Compatibility Validator | [librariesio/license-compatibility](https://github.com/librariesio/license-compatibility) | Ruby |
