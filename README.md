@@ -4,14 +4,15 @@
 
 | URL      | Description |
 | ----------- | ----------- |
-| [Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) | SPDX Expressions spec guidance |
 | [License List](https://spdx.org/licenses/) | The list of License codes |
 | [Exception List](https://spdx.org/licenses/exceptions-index.html) | The list of License Exception codes |
+| [Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) | SPDX Expressions spec guidance |
+
 
 ## Source Headers
     SPDX-License-Identifier: MIT
 
-## Quick Notes on Expressions
+## Expressions
 
 ### OR expressions
     (LGPL-2.1 OR MIT OR BSD-3-Clause)
