@@ -31,7 +31,7 @@
 
 ## Parsers
 
-| URL      | Language |
+| Repo      | Language |
 | ----------- | ----------- |
 | [spdx/tools-golang](https://github.com/spdx/tools-golang) | GoLang |
 | [kyoh86/go-spdx](https://github.com/kyoh86/go-spdx) | GoLang |
