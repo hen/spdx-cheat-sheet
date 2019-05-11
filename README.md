@@ -5,7 +5,7 @@
 | URL      | Description |
 | ----------- | ----------- |
 | [Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) | SPDX Expressions spec guidance |
-| [License List](https://spdx.github.io/spdx-spec/appendix-I-SPDX-license-list/) | The list of License codes |
+| [License List](https://spdx.org/licenses/) | The list of License codes |
 
 ## Quick Notes on Expressions
 
