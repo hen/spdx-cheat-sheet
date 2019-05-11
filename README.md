@@ -31,12 +31,12 @@
 
 ## Parsers
 
-| Repo      | Language |
-| ----------- | ----------- |
-| [spdx/tools-golang](https://github.com/spdx/tools-golang) | GoLang |
-| [kyoh86/go-spdx](https://github.com/kyoh86/go-spdx) | GoLang |
-| [kemitchell/spdx.js](https://github.com/kemitchell/spdx.js) | JavaScript |
-| [jslicense/spdx-expression-parse.js](https://github.com/jslicense/spdx-expression-parse.js) | JavaScript |
-| [samcv/SPDX-Parser](https://github.com/samcv/SPDX-Parser) | Perl6 |
-| [spdx/tools-python](https://github.com/spdx/tools-python) | Python |
-| [ah450/spdx-tools-python](https://github.com/ah450/spdx-tools-python) | Python |
+| Type        | Repo        | Language |
+| ----------- | ----------- | ----------- |
+| Document | [spdx/tools-golang](https://github.com/spdx/tools-golang) | GoLang |
+| Expression | [kyoh86/go-spdx](https://github.com/kyoh86/go-spdx) | GoLang |
+| Expression | [kemitchell/spdx.js](https://github.com/kemitchell/spdx.js) | JavaScript |
+| Expression | [jslicense/spdx-expression-parse.js](https://github.com/jslicense/spdx-expression-parse.js) | JavaScript |
+| Expression | [samcv/SPDX-Parser](https://github.com/samcv/SPDX-Parser) | Perl6 |
+| Document | [spdx/tools-python](https://github.com/spdx/tools-python) | Python |
+| Document | [ah450/spdx-tools-python](https://github.com/ah450/spdx-tools-python) | Python |
