@@ -41,3 +41,4 @@
 | Expression | [samcv/SPDX-Parser](https://github.com/samcv/SPDX-Parser) | Perl6 |
 | Document | [spdx/tools-python](https://github.com/spdx/tools-python) | Python |
 | Document | [ah450/spdx-tools-python](https://github.com/ah450/spdx-tools-python) | Python |
+| Expression | [nexB/license-expression](https://github.com/nexB/license-expression) | Python |
