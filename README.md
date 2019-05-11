@@ -15,7 +15,7 @@
     (LGPL-2.1 AND MIT AND BSD-2-Clause)
 ### WITH expressions
     (GPL-2.0+ WITH Bison-exception-2.2)
-### Or Later experssions
+### Or Later expressions
     (LGPL-2.1+)
 ### Order  
     +
