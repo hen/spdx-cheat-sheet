@@ -42,3 +42,10 @@
 | Document | [spdx/tools-python](https://github.com/spdx/tools-python) | Python |
 | Document | [ah450/spdx-tools-python](https://github.com/ah450/spdx-tools-python) | Python |
 | Expression | [nexB/license-expression](https://github.com/nexB/license-expression) | Python |
+
+## Other Tools
+
+| Type        | Repo        | Language |
+| ----------- | ----------- | ----------- |
+| Autocorrect | [jslicense/spdx-correct.js](https://github.com/jslicense/spdx-correct.js) | JavaScript |
+| Validator | [composer/spdx-licenses](https://github.com/composer/spdx-licenses) | PHP |
