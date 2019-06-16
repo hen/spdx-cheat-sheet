@@ -6,6 +6,7 @@
 | ----------- | ----------- |
 | [License List](https://spdx.org/licenses/) | The list of License codes |
 | [Exception List](https://spdx.org/licenses/exceptions-index.html) | The list of License Exception codes |
+| [IDs](https://spdx.org/ids) | Short-form identifiers guidance |
 | [Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) | SPDX Expressions spec guidance |
 | [Tutorial](https://github.com/david-a-wheeler/spdx-tutorial) | Short SPDX Tutorial |
 
